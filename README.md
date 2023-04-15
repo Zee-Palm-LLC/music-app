@@ -1,16 +1,10 @@
-# music_app
+# Zee Palm UI Code
 
-A new Flutter project.
+Music App UI done with Flutter 3.7.0
 
-## Getting Started
+## Details
 
-This project is a starting point for a Flutter application.
+This project includes playlist and music player screens with playing animation.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/128903428/232223024-cea40291-5329-47ba-8dc9-8eb2a8ad9d57.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/128903428/232223060-0587b1c8-4877-4d2c-8d54-d6a6b5b212df.png" width="200" height="400" />
